@@ -28,7 +28,7 @@ This project provides a simple REST API built with Django and Django REST Framew
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/PrathmeshChurhe/Django_rest
     cd project_1
     ```
 
